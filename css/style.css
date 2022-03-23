@@ -7,7 +7,7 @@
 
     #hero {
         height: auto;
-        background: url("/images/cozy_catholic_store.png");
+        background: url("images/cozy_catholic_store.png");
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
